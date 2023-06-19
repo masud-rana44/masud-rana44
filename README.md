@@ -11,8 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/masudrana44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="masudrana44" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/masud-rana-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masud-rana-in" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/iammasudrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="iammasudrana" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/masudrana4488" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="masudrana4488" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mdmasudrana4488" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mdmasudrana4488" height="30" width="40" /></a>
