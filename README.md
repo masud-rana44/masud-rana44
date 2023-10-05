@@ -11,7 +11,7 @@
 - 😄 &nbsp;_Pronouns:_ he/him
 - ⚡ &nbsp;_Fun fact:_ I ❤️ what I am doing!!😄
 
-### 📦 Languages and Tools:
+### Languages and Tools:
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -22,7 +22,7 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/cb39e2385dfcec8a661d01bfacff6b1e33bbaa9d/topics/express/express.png"></code>
 <code><img height="25" src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png"></code>
-<code><img height="25" src="https://pngimg.com/d/mysql_PNG9.png"></code>
+<code><img height="25" src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-logo-mysql-database-web-development-computer-software-dolphin-marine-mammal-animals-thumbnail.png"></code>
 <code><img height="25" src="https://w7.pngwing.com/pngs/28/245/png-transparent-postman-hd-logo-thumbnail.png"></code>
 <code><img height="25" src="https://yt3.googleusercontent.com/1oQc-j55vr_tnNhIWvSTxSPeV9cPpZyC3IoTr4zl6oUvEK50z9PjtfvKfyL8qC-sNbcQQmYg=s900-c-k-c0x00ffffff-no-rj"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
