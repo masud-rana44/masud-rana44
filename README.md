@@ -46,6 +46,6 @@
 
 ### Recent Projects
 
-- [Team Chapt Application](https://github.com/masud-rana44/discord-clone) - Real-time chat and communication platform.
+- [Team Chat Application](https://github.com/masud-rana44/discord-clone) - Real-time chat and communication platform.
 - [AI Companion](https://github.com/masud-rana44/ai-companion) - Real time conversation with AI companion.
 - ...
