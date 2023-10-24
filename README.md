@@ -3,7 +3,7 @@
 📌 _Here are a few things that describe me:_
 
 - 🎓 &nbsp;I'm currently pursuing my BSc degree in computer science & engineering
-- 🔭 &nbsp;Personal goal ─ spend more time working on trending projects
+- 🔭 &nbsp;Personal goal ─  Will spend more time learning new and advanced technologies
 - 💻 &nbsp;I spend most of my time writing JavaScript on both the front-end and back-end
 - 🌱 &nbsp;I’m currently learning TypeScript
 - 💬 &nbsp;Ask me about javascript, I'll be happy to help
@@ -39,8 +39,8 @@
 ### Problem Solving Skills
 
 <p align="left">
+  <a href="https://www.leetcode.com/masudrana4488" target="blank"><img height="20"  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="masudrana4488"  width="40" /></a>
 <a href="https://codeforces.com/profile/iammasudrana" target="blank"><img height="20"  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="iammasudrana"  width="40" /></a>
-<a href="https://www.leetcode.com/masudrana4488" target="blank"><img height="20"  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="masudrana4488"  width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mdmasudrana4488" target="blank"><img height="15"  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mdmasudrana4488" height="30" width="40" /></a>
 </p>
 
