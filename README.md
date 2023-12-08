@@ -3,7 +3,7 @@
 📌 _Here are a few things that describe me:_
 
 - 🎓 &nbsp;I'm currently pursuing my BSc degree in computer science & engineering
-- 🔭 &nbsp;Personal goal ─  Will spend more time learning new and advanced technologies
+- 🔭 &nbsp;Personal goal ─ Will spend more time learning new and advanced technologies
 - 💻 &nbsp;I spend most of my time writing JavaScript on both the front-end and back-end
 - 🌱 &nbsp;I’m currently learning TypeScript
 - 💬 &nbsp;Ask me about javascript, I'll be happy to help
@@ -11,29 +11,26 @@
 - 😄 &nbsp;_Pronouns:_ he/him
 - ⚡ &nbsp;_Fun fact:_ I ❤️ what I am doing!!😄
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=masud-rana44&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 ### Languages and Tools:
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="25" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/redux/redux.png"></code>
-<code><img height="25" src="https://ih1.redbubble.net/image.4854929665.2233/st,small,507x507-pad,600x600,f8f8f8.u1.jpg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/cb39e2385dfcec8a661d01bfacff6b1e33bbaa9d/topics/express/express.png"></code>
-<code><img height="25" src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png"></code>
-<code><img height="25" src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-logo-mysql-database-web-development-computer-software-dolphin-marine-mammal-animals-thumbnail.png"></code>
-<code><img height="25" src="https://w7.pngwing.com/pngs/28/245/png-transparent-postman-hd-logo-thumbnail.png"></code>
-<code><img height="25" src="https://yt3.googleusercontent.com/1oQc-j55vr_tnNhIWvSTxSPeV9cPpZyC3IoTr4zl6oUvEK50z9PjtfvKfyL8qC-sNbcQQmYg=s900-c-k-c0x00ffffff-no-rj"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TailwindCSS-Dark.svg"></code>
+<code><img height="25" src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/ExpressJS-Dark.svg"></code>
+<code><img height="23" src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MySQL-Dark.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Postman.svg"></code>
+<code><img height="21" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Prisma.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code><code><img height="25" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Supabase-Dark.svg"></code>
+<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
-<code><img height="25" src="https://www.styled-components.com/atom.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="25" src="https://w7.pngwing.com/pngs/54/524/png-transparent-figma-app-logo-tech-companies-thumbnail.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Git.svg"></code>
+
 <br />
 
 ### Problem Solving Skills
@@ -43,4 +40,3 @@
 <a href="https://codeforces.com/profile/iammasudrana" target="blank"><img height="20"  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="iammasudrana"  width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mdmasudrana4488" target="blank"><img height="15"  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mdmasudrana4488" height="30" width="40" /></a>
 </p>
-- ...
