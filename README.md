@@ -43,9 +43,4 @@
 <a href="https://codeforces.com/profile/iammasudrana" target="blank"><img height="20"  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="iammasudrana"  width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mdmasudrana4488" target="blank"><img height="15"  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mdmasudrana4488" height="30" width="40" /></a>
 </p>
-
-### Recent Projects
-
-- [Team Chat Application](https://github.com/masud-rana44/discord-clone) - Real-time chat and communication platform.
-- [AI Companion](https://github.com/masud-rana44/ai-companion) - Real time conversation with AI companion.
 - ...
