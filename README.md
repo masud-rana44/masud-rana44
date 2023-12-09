@@ -1,4 +1,10 @@
-[![I am a Junior Front-end developer.](./assets/banner2.png)](https://github.com/masud-rana44)
+[![MERN Stack Developer.](./assets/banner3.png)](https://github.com/masud-rana44)
+
+📌 _Here are a few things that describe me:_
+
+- 🎓 &nbsp;I'm currently pursuing my BSc degree in computer science & engineering
+- 🌱 &nbsp;I’m currently learning Next.js,TypeScript, Prisma
+- 🔭 &nbsp;Personal goal ─ Will spend more time learning new and advanced technologies
 
 <p align="center">
 
@@ -23,20 +29,11 @@
 ## 🧩 Problem Solving Profile
 
 <div align="center">
-<a href="https://www.leetcode.com/masudrana4488" target="blank"><img height="50"  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="masudrana4488"  width="40" /></a>
-<a href="https://codeforces.com/profile/iammasudrana" target="blank"><img height="50"  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="iammasudrana"  width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mdmasudrana4488" target="blank"><img height="15"  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mdmasudrana4488" height="60" width="100" /></a>
+<a href="https://www.leetcode.com/masudrana4488" target="blank"><img height="25"  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="masudrana4488"  width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/mdmasudrana4488" target="blank"><img height="15"  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mdmasudrana4488" height="60" width="" /></a>
+<a href="https://codeforces.com/profile/iammasudrana" target="blank"><img height="25"  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="iammasudrana"  width="40" /></a>
+
 </div>
-
-<!-- 📌 _Here are a few things that describe me:_
-
-- 🎓 &nbsp;I'm currently pursuing my BSc degree in computer science & engineering
-- 🔭 &nbsp;Personal goal ─ Will spend more time learning new and advanced technologies
-- 💻 &nbsp;I spend most of my time writing JavaScript on both the front-end and back-end
-- 🌱 &nbsp;I’m currently learning TypeScript
-- 💬 &nbsp;Ask me about javascript, I'll be happy to help
-- 📫 &nbsp;_How to reach me:_ [Linkedin](https://www.linkedin.com/in/masud-rana-in/) | [Email](mailto:masudrana4488@gmail.com) 🚀 -->
-<!-- - ⚡ &nbsp;_Fun fact:_ I ❤️ what I am doing!!😄 -->
 
 ## 📈 Current Stats
 
