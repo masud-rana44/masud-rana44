@@ -1,4 +1,4 @@
-[![MERN Stack Developer.](./assets/banner3.png)](https://github.com/masud-rana44)
+[![MERN Stack Developer.](./assets/banner3.PNG)](https://github.com/masud-rana44)
 
 📌 _Here are a few things that describe me:_
 
