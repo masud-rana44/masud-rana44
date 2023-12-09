@@ -2,7 +2,7 @@
 
 📌 _Here are a few things that describe me:_
 
-- 🎓 &nbsp;I'm currently pursuing my BSc degree in computer science & engineering
+- 🎓 &nbsp;I recently completed my BSc degree in computer science & engineering
 - 🌱 &nbsp;I’m currently learning Next.js,TypeScript, Prisma
 - 🔭 &nbsp;Personal goal ─ Will spend more time learning new and advanced technologies
 
@@ -39,6 +39,6 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=masud-rana44&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=masud-rana44&theme=dark&hide_border=true&card_width=800)](https://git.io/streak-stats)
 
 </div>
