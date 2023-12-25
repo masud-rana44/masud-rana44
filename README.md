@@ -35,7 +35,7 @@
     <span style="margin-right: 15px;"></span>
     <a href="https://codeforces.com/profile/iammasudrana" target="blank"><img height="36" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="iammasudrana" width="40" /></a>
     <span style="margin-right: 8px;"></span>
-    <a href="https://www.beecrowd.com.br/judge/en/users/statistics/433670" target="blank"><img height="48" src="./assets/bee-crowd.png" alt="beecrowd" width="58" /></a>
+    <a href="https://www.beecrowd.com.br/judge/en/users/statistics/433670" target="blank"><img height="36" src="./assets/bee-crowd.png" alt="beecrowd" width="58" /></a>
 </div>
 
 ## 📈 Current Stats
