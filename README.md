@@ -2,8 +2,9 @@
 
 📌 _Here are a few things that describe me:_
 
+- 💼 &nbsp;I am currently working as a Junior Software Engineer
 - 🎓 &nbsp;I recently completed my BSc in computer science & engineering
-- 🌱 &nbsp;I’m currently learning Next.js,TypeScript, Prisma
+- 🌱 &nbsp;I’m currently learning Next.js, TypeScript, Prisma
 <!-- - 🔭 &nbsp;Personal goal ─ Will spend more time learning new and advanced technologies -->
 
 <p align="center">
