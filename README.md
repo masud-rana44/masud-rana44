@@ -1,10 +1,10 @@
-[![MERN Stack Developer.](./assets/banner3.PNG)](https://github.com/masud-rana44)
+<!-- [![MERN Stack Developer.](./assets/banner3.PNG)](https://github.com/masud-rana44) -->
 
-📌 _Here are a few things that describe me:_
+<!-- 📌 _Here are a few things that describe me:_
 
 - 💼 &nbsp;I am currently working as a Junior Software Engineer
 - 🎓 &nbsp;I recently completed my BSc in computer science & engineering
-- 🌱 &nbsp;I’m currently learning Next.js, TypeScript, Prisma
+- 🌱 &nbsp;I’m currently learning Next.js, TypeScript, Prisma -->
 <!-- - 🔭 &nbsp;Personal goal ─ Will spend more time learning new and advanced technologies -->
 
 <p align="center">
@@ -39,10 +39,10 @@
     <a href="https://www.beecrowd.com.br/judge/en/users/statistics/433670" target="blank"><img height="36" src="./assets/bee-crowd.png" alt="beecrowd" width="58" /></a>
 </div>
 
-## 📈 Current Stats
+<!-- ## 📈 Current Stats
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=masud-rana44&theme=dark&hide_border=true&card_width=800)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=masud-rana44&theme=dark&hide_border=true&card_width=800)](https://git.io/streak-stats) -->
 
 </div>
